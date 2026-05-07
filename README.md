@@ -8,8 +8,8 @@ Upload any image and let the AI predict the object with confidence scores in rea
 ## 👨‍💻 Team Members
 
 ✨ Kartik D Chendekar  
-✨ Giresh  
-✨ Kishan  
+✨ Giresh S Patgar
+✨ M V S Kishan  
 
 ---
 
